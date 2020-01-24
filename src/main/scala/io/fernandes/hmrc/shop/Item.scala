@@ -11,4 +11,3 @@ case object Apple extends Item {
 case object Orange extends Item {
   override def price: BigDecimal = BigDecimal(0.25)
 }
-

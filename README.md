@@ -2,6 +2,11 @@
 A simple shopping cart checkout implementation for a shop selling Apples and Oranges with some offers
 
 ## Release Notes
+#### Version 0.2
+* Introduce Offers
+* Apples, 2 for 1
+* Oranges, 3 for 2
+
 #### Version 0.1
 * Checkout Apples at 60p and Oranges at 25p
 
